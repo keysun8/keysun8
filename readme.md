@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 Building the future with Computer Vision, specializing in Image & Video Generation.<br>🧩 Learning next-generation Autoregressive × Diffusion hybrid architectures.<br>📐 Obsessed with the mathematics that powers modern AI.🏁 Formula 1 addict and automotive enthusiast.<br>💡 Always experimenting with the latest technologies and research papers.<br>⚡ Fast cars, fast learning, and fast iteration.<br>
+🔭 Building the future with Computer Vision, specializing in Image & Video Generation.<br>🧩 Learning next-generation Autoregressive × Diffusion hybrid architectures.<br>📐 Obsessed with the mathematics that powers modern AI.<br>🏁 Formula 1 addict and automotive enthusiast.<br>💡 Always experimenting with the latest technologies and research papers.<br>⚡ Fast cars, fast learning, and fast iteration.<br>
 
 
 ## 🌐 Socials:
